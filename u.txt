@@ -1,0 +1,12 @@
+hands of stone,6.3
+autumn,3.2
+slumdog millionaire,8.3
+the shawshank redemption,9.3
+the godfather,9.0
+the presence,4.4
+schindler's list,8.9
+chaplin,7.3
+amelie,8.4
+star wars,8.6
+limtless,7.3
+blind,7.8
